@@ -1,7 +1,7 @@
 # squareeyes
 
 This is my website square eyes. There is only one movie that is clickable. 
-The movie that is clickable is sweetheart. Otherwise, everything else must be functional on the website.
+The movie that is clickable is sweetheart. Otherwise, everything else is functional on the website.
 
 I have tried to run my code thru https://validator.w3.org/ to check if my code was correct.
 
