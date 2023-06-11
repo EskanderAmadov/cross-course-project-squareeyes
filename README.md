@@ -1,5 +1,8 @@
 ## cross-course-project-squareeyes
 
+![Squareeyes pict](https://github.com/EskanderAmadov/cross-course-project-squareeyes/assets/114715507/d29abf88-cb0e-4bb1-8543-93f5265c8df5)
+
+
 ## Description
 
 This is the GitHub repository for the Squareeyes website to connect film lovers around the world.
