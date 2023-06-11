@@ -7,7 +7,7 @@
 
 This is the GitHub repository for the Squareeyes website to connect film lovers around the world.
 
-We were tasked to upgrade our project and complement things we had learned to upgrade the website we chose on the first task. I picked squareEyes because i like to watch movies my self, and know how diffrent sites and designs looks like. We also needed to Test the usability of your website and see where you can improve the overall interaction which i did on this project.
+We were tasked to upgrade our project and complement things we had learned to upgrade the website we chose on the first task. I picked squareEyes because i like to watch movies my self, and know how diffrent sites and designs looks like. I needed to run the usability test of my website and see where i needed some improvements on my overall interaction. 
 
 Some of the requirements
 
