@@ -1,12 +1,29 @@
-# squareeyes
+## cross-course-project-squareeyes
 
-This is my website. There is only one movie that is clickable. 
-The movie that is clickable is sweetheart. Otherwise, everything else is functional on the website.
+## Description
 
-I have tried to run my code thru https://validator.w3.org/ to check if my code was correct.
+This is the GitHub repository for the Squareeyes website to connect film lovers around the world.
 
-Here is my netlify link : https://preeminent-capybara-dc5d92.netlify.app
+We were tasked to upgrade our project and complement things we had learned to upgrade the website we chose on the first task. I picked squareEyes because i like to watch movies my self, and know how diffrent sites and designs looks like. We also needed to Test the usability of your website and see where you can improve the overall interaction which i did on this project.
 
-Here is my Figma link: https://www.figma.com/proto/M3WiJUJY5BLGWSNnHZGFXP/Hoved-oppgave?node-id=295%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=295%3A3
+Some of the requirements
 
+- HTML is bug-free and semantic
+- CSS follows DRY principles
+- Website is responsive
+- Images are below 200kb
+- Upgrade your site after the feedback from usability test.
 
+## Built With
+
+The squareeyes project is built with the following technologies::
+
+- HTML
+- CSS
+- JavaScript
+
+## Installing
+
+Clone the repo, open it with Visual Studio Code and run it with Live Server.
+
+[Link to the Site](https://incandescent-rugelach-08951a.netlify.app)
